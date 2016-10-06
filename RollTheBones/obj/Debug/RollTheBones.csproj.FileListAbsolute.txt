@@ -1,0 +1,5 @@
+E:\Development\josh.gotham\GitHub\WoW-Simulations\RollTheBones\bin\Debug\RollTheBones.exe.config
+E:\Development\josh.gotham\GitHub\WoW-Simulations\RollTheBones\bin\Debug\RollTheBones.exe
+E:\Development\josh.gotham\GitHub\WoW-Simulations\RollTheBones\bin\Debug\RollTheBones.pdb
+E:\Development\josh.gotham\GitHub\WoW-Simulations\RollTheBones\obj\Debug\RollTheBones.exe
+E:\Development\josh.gotham\GitHub\WoW-Simulations\RollTheBones\obj\Debug\RollTheBones.pdb
