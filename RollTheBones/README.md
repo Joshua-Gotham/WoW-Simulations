@@ -4,8 +4,13 @@ Roll the Bones rolls 6 dice at random, and the rogue receives a buff based on wh
 
 For example, the odds of rolling 3 buffs is only slightly higher than rolling 6, so you'd never reroll a triple. Whereas 2 buffs is around 35%, so it's worth re-rolling a bad single buff. 
 
+
 Results(5,000,000 iterations)
+
 One Buff: 59.22%
+
 Two Buffs: 35.38%
+
 Three Buffs: 3.86%
+
 All Buffs: 1.54%
